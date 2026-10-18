@@ -30,5 +30,5 @@
 </div>
 
 <div align="center">
-  <sub>feito com vibes e agentes de IA no loop</sub>
+  <sub>Programação</sub>
 </div>
