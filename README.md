@@ -22,13 +22,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Drevoso/Drevoso/output/github-contribution-grid-snake.svg" width="830" alt="cobrinha das contribuições de Drevoso"/>
 </div>
-
-## >_ contato/
-
-<div align="center">
-  <img src="https://img.shields.io/badge/discord-ydrevx-070b09?style=for-the-badge&logo=discord&logoColor=4ade80" alt="discord: ydrevx"/>
-</div>
-
-<div align="center">
-  <sub>Programação</sub>
-</div>
